@@ -12,7 +12,6 @@ A transformer-based NLP classifier that distinguishes **Fake** from **Real** new
 ## Tech Stack
 
 | Tool | Purpose |
-|---|---|
 | Python 3.10+ | Core language |
 | PyTorch | Deep learning framework |
 | Hugging Face Transformers | DistilBERT model & tokenizer |
