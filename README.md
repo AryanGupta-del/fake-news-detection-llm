@@ -124,3 +124,6 @@ Softmax → Fake (0) / Real (1)
 - [Hugging Face](https://huggingface.co/) for the Transformers library
 - [Kaggle](https://www.kaggle.com/) for the dataset
 - [Victor Sanh et al.](https://arxiv.org/abs/1910.01108) for the DistilBERT paper
+
+## Google Collab Link
+https://colab.research.google.com/github/AryanGupta-del/fake-news-detection-llm/blob/main/Welcome_To_Colab%20(3)%20(1).ipynb
