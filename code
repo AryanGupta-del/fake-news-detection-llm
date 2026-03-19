@@ -73,3 +73,6 @@ ef predict(text):
 print(predict("Senate leader McConnell sees a more collegial 2018"))
 model.save_pretrained("model")
 tokenizer.save_pretrained("model")          
+!zip -r model.zip model
+from google.colab import files
+files.download("model.zip")
